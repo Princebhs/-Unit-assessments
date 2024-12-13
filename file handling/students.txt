@@ -1,0 +1,12 @@
+Paul
+Computing, 50, 25
+Networking, 60, 25
+Dissertation, 70, 50
+Sarah
+Database, 75, 30
+Programming, 85, 30
+Project, 90, 40
+John
+Mathematics, 65, 20
+Statistics, 70, 30
+Research, 80, 50
