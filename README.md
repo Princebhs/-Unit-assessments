@@ -6,5 +6,6 @@
 5. functions
 6. List Operations
 7. Modular code
-8. File Handling
-9. Buggy code
+8. dictionaries 
+9. File Handling
+10. Buggy code
